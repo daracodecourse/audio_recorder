@@ -5,11 +5,12 @@ author: Jordan ALCARAZ <jordan.alcarazz@gmail.com>
 homepage: https://github.com/ZaraclaJ/audio_recorder
 
 dependencies:
-  path: ^1.5.1
+  path: ^1.6.2
   flutter:
     sdk: flutter
-  path_provider: ^0.4.1
-  file: ^5.0.4
+  path_provider: ^1.1.0
+
+  file: ^5.0.8
 
 environment:
   sdk: ">=2.0.0-dev.40.0.flutter-f981f09760 <3.0.0"
